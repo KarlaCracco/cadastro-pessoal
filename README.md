@@ -1,49 +1,41 @@
-<Title>Desafio Cadastro Pessoal - Formação Tech - Edição 4 </Title>
+# Desafio Cadastro Pessoal - Formação Tech - Edição 4 # 
 
 <img src="img/karla.jpg">
 
-<a class="botao btn-vermelho" href="https://linkedin.com/in/karla-cracco-5994b7220">LINKEDIN</a>
+[LINKEDIN](https://linkedin.com/in/karla-cracco-5994b7220) 
 
-<ul> 
-    <li> Autor </li>
-    <li> Descrição </li>
-    <li> Objetivo </li>
-    <li> Linguagens </li>
-    <li> Ferramentas </li>
-</ul>
+- [Desafio Cadastro Pessoal - Formação Tech - Edição 4 #](#desafio-cadastro-pessoal---formação-tech---edição-4-)
+  - [Autor](#autor)
+  - [Descrição](#descrição)
+  - [Objetivo](#objetivo)
+  - [Linguagens](#linguagens)
+  - [Ferramentas](#ferramentas)
 
-<h1> Autor </h1>
-<ul>
-    <li> Karla Rojas Cracco Lima Império Dalmati </li>
-    <li> Idade: 29 anos </li>
-    <li> Tipo de deficiência: Deficiente auditiva; usa a Libras (Língua Brasileira de Sinais) </li>
- </ul>
+## Autor
 
- <h2> Descrição </h2>
- <p> Nasci surda devido a doença da rubeóla herdada por minha mãe ainda na gravidez. Aprendi Libras ainda </br>
-     criança e isso me ajudou obter acesso a informação nos seus mais variados segmentos. </br>
-     Sempre gostei de maquiagem e me formei no Senac como maquiadora profissional. Atualmente trabalho </br> 
-     como Instrutora de Libras ministrando cursos de Libras na forma online. </p> </br>
+* **Nome:** Karla Rojas Cracco Lima Império Dalmati
+* **Idade:** 29 anos
+* **Tipo de deficiência:** Deficiente auditiva; usa a Libras (Língua Brasileira de Sinais) 
 
- <p> Sempre tive interesse em aprender coisas novas, e recentemente meu marido me incentivou a aprender </br>
- programação devido as oportunidades que estão surgindo na área. Isso me tocou profundamente pois, apesar </br>
- da minha deficiência, percebi que tenho agora a oportunidade de fazer mais, coisas maiores na minha carreira </br>
- profissional. Quando pude entender claramente isso, me apaixonei a primeira vista em programação. </br>
- Apesar dos desafios, tenho certeza que irei superá-los e me tornar uma excelente programadora!! </p> </br>
+## Descrição
 
- <h3> Objetivo </h3>
- <p> Desenvolver um Formulário de Cadastro com alguns campos obrigatórios e algumas validações.</p>
+Nasci surda devido a doença da rubeóla herdada por minha mãe ainda na gravidez. Aprendi Libras ainda criança e isso me ajudou obter acesso a informação nos seus mais variados segmentos. Sempre gostei de maquiagem e me formei no Senac como maquiadora profissional. Atualmente trabalho como Instrutora de Libras ministrando cursos de Libras na forma online.
 
- <h4> Linguagens </h4>
- <ul>
-    <li> HTML </li>
-    <li> CSS </li>
-    <li> JavaScript </li>
- </ul>
+Sempre tive interesse em aprender coisas novas, e recentemente meu marido me incentivou a aprender programação devido as oportunidades que estão surgindo na área. Isso me tocou profundamente pois, apesar da minha deficiência, percebi que tenho agora a oportunidade de fazer mais, coisas maiores na minha carreira profissional. Quando pude entender claramente isso, me apaixonei a primeira vista em programação. Apesar dos desafios, tenho certeza que irei superá-los e me tornar uma excelente programadora!!
 
+## Objetivo
 
- <h5> Ferramentas </h5>
-<p> Visual Studio Code, Git Bash e Git Hub </p>
+Desenvolver um Formulário de Cadastro com alguns campos obrigatórios e algumas validações.
+
+## Linguagens
+
+* HTML
+* CSS
+* JavaScript
+
+## Ferramentas
+
+Visual Studio Code, com Git Bash e GitHub Desktop no Windows 10. 
                           
 
 
